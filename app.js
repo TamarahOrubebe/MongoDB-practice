@@ -17,7 +17,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://localhost:27017/postsDB", { useNewUrlParser: true, useUnifiedTopology: true }, function (err) {
+mongoose.connect("mongodb+srv://Tamarah:arsenalfc2@cluster0.ystah.mongodb.net/postsDB", { useNewUrlParser: true, useUnifiedTopology: true }, function (err) {
   if (err) {
     console.log(err)
   } else {
@@ -82,6 +82,12 @@ app.get("/posts/:postId", function (req, res) {
 
 });
 
-app.listen(3000, function() {
-  console.log("Server started on port 3000");
+let PORT = process.env.PORT;
+
+if (PORT === null || PORT === "") {
+  PORT = 3000;
+}
+
+app.listen(PORT, function() {
+  console.log("Server started successfully");
 });
