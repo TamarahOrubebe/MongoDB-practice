@@ -30,7 +30,7 @@ This is a persistent blog app
 - Express
 - EJS
 - MongoDB
-- HTMl
+- HTML
 - CSS
 
 
