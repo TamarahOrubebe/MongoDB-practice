@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tam's blog
 
 ![Project Image](./images/blog.png)
@@ -97,7 +97,5 @@ SOFTWARE.
 - Website - [Tamarah Orubebe](https://tamarahorubebe.netlify.app)
 
 [Back To The Top](#Tam's blog)
-=======
-# MongoDB-practice
-blog connected to a database
->>>>>>> f20aa7c9016cbecada626e4b0dc472355f356ece
+
+
