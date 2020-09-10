@@ -1,5 +1,5 @@
 
-# Tam's-blog
+# Tam's blog
 
 ![Project Image](./images/blog.png)
 
