@@ -1,5 +1,5 @@
 
-# Tam's blog
+# Tam's-blog
 
 ![Project Image](./images/blog.png)
 
@@ -19,7 +19,7 @@
 
 ## Description
 
-This is a persistent blog app
+This is a persistent blog app.
 
 
 
@@ -35,7 +35,7 @@ This is a persistent blog app
 - CSS
 
 
-[Back To The Top](#Tam's blog)
+[Back To The Top](#Tam's-blog)
 
 ---
 
@@ -59,7 +59,7 @@ This is a persistent blog app
 ---
 
 ## References
-[Back To The Top](#Tam's blog)
+[Back To The Top](#Tam's-blog)
 
 ---
 
@@ -87,7 +87,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#Tam's blog)
+[Back To The Top](#Tam's-blog)
 
 ---
 
@@ -96,6 +96,6 @@ SOFTWARE.
 - Twitter - [@tamaraudoubra](https://twitter.com/tamaraudoubra)
 - Website - [Tamarah Orubebe](https://tamarahorubebe.netlify.app)
 
-[Back To The Top](#Tam's blog)
+[Back To The Top](#Tam's-blog)
 
 
